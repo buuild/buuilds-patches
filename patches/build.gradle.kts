@@ -1,14 +1,13 @@
-group = "app.template"
+group = "com.github.buuild"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        name = "buuilds patches"
+        description = "patches for musescore: optional sign-in with MicroG and removal of opups"
+        source = "git@github.com:buuild/buuilds-patches.git"
+        author = "buuild"
+        contact = "https://github.com/buuild"
+        website = "https://github.com/buuild/buuilds-patches"
         license = "GPLv3"
     }
 }
